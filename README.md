@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # 💫 About Me  
 React Developer, currently learning the **MERN Stack**  
