@@ -5,7 +5,7 @@ Passionate about building modern web applications and continuously improving my 
 
 ---
 
-## bout Me
+## About Me
 
 I'm an aspiring **Full-Stack Developer** specializing in the **MERN Stack** and **Next.js**.  
 Starting from scratch, I've been consistently learning and building real-world projects to strengthen my skills.
