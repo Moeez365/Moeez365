@@ -20,24 +20,14 @@ Starting from scratch, I've been consistently learning and building real-world p
 
 ## 🧰 Tech Stack
 
-### Frontend
-- React.js  
-- Next.js  
-- Tailwind CSS  
-- Framer Motion / GSAP (basic)
+## Frontend
+- React.js, Next.js, Tailwind CSS, Framer Motion, GSAP (basic)
 
-### Backend
-- Node.js  
-- Express.js  
-- MongoDB  
-- Firebase  
+## Backend
+- Node.js, Express.js, MongoDB, Firebase
 
-### Tools & Others
-- Git & GitHub  
-- Socket.IO  
-- VS Code  
-- Python (basic)
-
+## Tools & Others
+- Git & GitHub, Socket.IO, VS Code, Python (basic)
 ---
 
 ## 📫 Contact Me
