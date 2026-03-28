@@ -1,39 +1,50 @@
 # Hi, I'm Moeez 👋
 
-I'm a self-taught developer from Lahore, Pakistan.
-Passionate about building things on the web and growing every day.
+I'm a self-taught developer from Lahore, Pakistan 🇵🇰  
+Passionate about building modern web applications and continuously improving my skills.
 
 ---
 
-## Who Am I?
+## 🚀 About Me
 
-I'm an aspiring Full-Stack Developer focused on the MERN Stack and Next.js.
-I started from zero and have been learning non-stop — turning ideas into real projects.
-
----
-
-## What I'm Currently Working On
-
-- A Local Service Marketplace app built with React and Node.js
-- My personal portfolio with smooth scroll and parallax animations
-- Deepening my skills in Next.js, Python, and backend development
+I'm an aspiring **Full-Stack Developer** specializing in the **MERN Stack** and **Next.js**.  
+Starting from scratch, I've been consistently learning and building real-world projects to strengthen my skills.
 
 ---
 
-## Tools I Use
+## 🔨 Current Work
 
-- **Frontend** — React, Next.js, Framer Motion, Bootstrap
-- **Backend** — Node.js, Express.js, MongoDB, Firebase
-- **Other** — Git, Socket.IO, VS Code, Python
+- 💬 Developing a **real-time Chat Application** using the MERN stack and Socket.IO
 
 ---
 
-## How to Reach Me
+## 🧰 Tech Stack
 
-- Email: your.email@gmail.com
-- LinkedIn: linkedin.com/in/yourprofile
-- GitHub: github.com/yourusername
+### Frontend
+- React.js  
+- Next.js  
+- Tailwind CSS  
+- Framer Motion / GSAP (basic)
+
+### Backend
+- Node.js  
+- Express.js  
+- MongoDB  
+- Firebase  
+
+### Tools & Others
+- Git & GitHub  
+- Socket.IO  
+- VS Code  
+- Python (basic)
 
 ---
 
-Open to internships, collaborations, and new opportunities.
+## 📫 Contact Me
+
+- 📧 Email: moeeznadeem58@gmail.com    
+- 💻 GitHub: github.com/Moeez365  
+
+---
+
+⭐ Always learning. Always building.
